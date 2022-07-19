@@ -8,8 +8,14 @@ I seek to grow both professionally and personally, so I am open to changes that 
 
 I like trekking, going to the mountains, to the river. I love listening to music.
 
-
-Here are some ideas to get you started:
+```js
+const technologies = {
+  lenguages: ["Javascript"],
+  db: ["Sequelize", "PostgreSQL"],
+  backend: ["NodeJS", "Express"],
+  frontend: ["React", "Redux", "CSS", "HTML5"]
+}
+```
 
 - 🔭 I’m currently working on 4Geeks Academy.
 - 🌱 I’m currently learning more JavaScript and Python.
