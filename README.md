@@ -2,7 +2,7 @@
 
 I'm Diego Bullor and this is my GitHub
 
-I'm 35 years old. I live in Tierra del Fuego, Argentina, I love the idea of learning new things every day. I like to work in a team, I'm a positive and organized person.
+I'm 36 years old. I live in Tierra del Fuego, Argentina, I love the idea of learning new things every day. I like to work in a team, I'm a positive and organized person.
 
 I seek to grow both professionally and personally, so I am open to changes that arise in the different processes.
 
